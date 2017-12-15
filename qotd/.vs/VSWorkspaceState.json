@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grails-app",
+    "\\grails-app\\controllers",
+    "\\grails-app\\controllers\\qotd",
+    "\\grails-app\\views",
+    "\\grails-app\\views\\layouts",
+    "\\grails-app\\views\\quote"
+  ],
+  "SelectedNode": "\\grails-app\\views\\layouts\\quote.gsp",
+  "PreviewInSolutionExplorer": false
+}
